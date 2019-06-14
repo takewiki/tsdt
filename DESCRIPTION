@@ -10,3 +10,5 @@ Description: data types extended the base datatype in R
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat
