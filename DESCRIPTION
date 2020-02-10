@@ -1,7 +1,7 @@
 Package: tsdt
 Type: Package
-Title: data type in takewiki solutions
-Version: 0.1.1
+Title: data types in takewiki solutions
+Version: 1.0.0
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: data types extended the base datatype in R
