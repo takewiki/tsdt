@@ -1,7 +1,7 @@
 Package: tsdt
 Type: Package
 Title: data types in takewiki solutions
-Version: 3.0.0
+Version: 3.1.0
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: data types extended the base datatype in R
@@ -12,3 +12,19 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
+RoxygenNote: 7.1.1
+Collate: 
+    '010-vector.R'
+    '020-factor.R'
+    '030-matrix.R'
+    '040-data_frame.R'
+    '050-list.R'
+    '060-tensor.R'
+    'datatype.R'
+    'date.R'
+    'dateInput.R'
+    'getDateSeries.R'
+    'getTimeSeries.R'
+    'mysql.R'
+    'stringOperating.R'
+    'time.R'
